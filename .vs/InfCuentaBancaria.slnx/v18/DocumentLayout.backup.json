@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\C# CURSO SABADO\\ejercicios\\InfCuentaBancaria\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\Curso Desarrollo de aplicaciones\\Labotarios\\InfCuentaBancaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{418A2FC0-9C52-4B17-BEC7-6C7637EA1521}|InfCuentaBancaria\\InfCuentaBancaria.csproj|c:\\users\\angel\\desktop\\c# curso sabado\\ejercicios\\infcuentabancaria\\infcuentabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{418A2FC0-9C52-4B17-BEC7-6C7637EA1521}|InfCuentaBancaria\\InfCuentaBancaria.csproj|c:\\users\\angel\\desktop\\curso desarrollo de aplicaciones\\labotarios\\infcuentabancaria\\infcuentabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418A2FC0-9C52-4B17-BEC7-6C7637EA1521}|InfCuentaBancaria\\InfCuentaBancaria.csproj|solutionrelative:infcuentabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\C# CURSO SABADO\\ejercicios\\InfCuentaBancaria\\InfCuentaBancaria\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\Curso Desarrollo de aplicaciones\\Labotarios\\InfCuentaBancaria\\InfCuentaBancaria\\Program.cs",
               "RelativeDocumentMoniker": "InfCuentaBancaria\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\C# CURSO SABADO\\ejercicios\\InfCuentaBancaria\\InfCuentaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\Curso Desarrollo de aplicaciones\\Labotarios\\InfCuentaBancaria\\InfCuentaBancaria\\Program.cs",
               "RelativeToolTip": "InfCuentaBancaria\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
