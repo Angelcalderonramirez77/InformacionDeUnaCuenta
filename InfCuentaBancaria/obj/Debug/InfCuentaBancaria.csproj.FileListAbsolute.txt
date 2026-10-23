@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\bin\Debug\InfCuentaBancaria.exe.config
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\bin\Debug\InfCuentaBancaria.exe
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\bin\Debug\InfCuentaBancaria.pdb
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\obj\Debug\InfCuentaBancaria.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\obj\Debug\InfCuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\obj\Debug\InfCuentaBancaria.exe
+C:\Users\angel\Desktop\C# CURSO SABADO\ejercicios\InfCuentaBancaria\InfCuentaBancaria\obj\Debug\InfCuentaBancaria.pdb
